@@ -1,11 +1,10 @@
 # PBL-2024
-<<<<<<< HEAD
+
 pbl project 
 Area: Education
 =======
 
 #Area: Education
->>>>>>> 039fa4dc3401b122006a8ff6ce5fa05f10a14eab
 
 Title: Digitalization of Submission Ticket
 
@@ -22,7 +21,4 @@ Time is of utmost importance at the time of submissions as the End of Semester a
 As such this project will be helpful to the students as the time spent filling out the submission ticket can be utilised for preparation for the exams.
 
 If implemented this project can not only save time but also money and resources.
-<<<<<<< HEAD
-=======
 
->>>>>>> 039fa4dc3401b122006a8ff6ce5fa05f10a14eab
