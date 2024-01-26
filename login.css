@@ -1,5 +1,22 @@
-.ubuntu-mono-regular {
-    font-family: "Ubuntu Mono", monospace;
+
+  body {
+    background-color: white
+  }
+  .russo-one-regular {
+    font-family: "Russo One", sans-serif; 
     font-weight: 400;
     font-style: normal;
   }
+  .box{
+    height: 400px;
+    width :300px ;
+    border: 3px solid black;
+    }
+  .login-button {
+    background-color : rgb(97, 48, 48);/* Set the background color of the button */
+    color: #fff; /* Set the text color of the button */
+    padding: 10px 20px; /* Set padding to make the button look nice */
+    border: none; /* Remove the button border */
+    border-radius: 5px; /* Optional: Add rounded corners */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
